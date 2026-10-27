@@ -1,0 +1,55 @@
+# French translation for Coffee Check.
+# SPDX-License-Identifier: GPL-2.0-or-later
+msgid ""
+msgstr ""
+"Project-Id-Version: coffee-check@eoran 1.0\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Coffee Check"
+msgstr "Coffee Check"
+
+msgid "%d°C"
+msgstr "%d °C"
+
+msgid "☕ New coffee"
+msgstr "☕ Nouveau café"
+
+msgid "✕ Stop"
+msgstr "✕ Arrêter"
+
+msgid "%d min %d s"
+msgstr "%d min %d s"
+
+msgid "%d s"
+msgstr "%d s"
+
+msgid "No coffee brewing"
+msgstr "Aucun café en cours"
+
+msgid "Click “New coffee” to start"
+msgstr "Clique sur « Nouveau café » pour commencer"
+
+msgid "Target temperature: %d°C"
+msgstr "Température cible : %d °C"
+
+msgid "%s°C"
+msgstr "%s °C"
+
+msgid "Elapsed: %s"
+msgstr "Temps écoulé : %s"
+
+msgid "Time left: %s"
+msgstr "Temps restant : %s"
+
+msgid "✓ Ready to drink!"
+msgstr "✓ Prêt à déguster !"
+
+msgid "☕ Coffee Check"
+msgstr "☕ Coffee Check"
+
+msgid "Your coffee is at %d°C — enjoy it now!"
+msgstr "Ton café est à %d °C, c'est le moment de le déguster !"

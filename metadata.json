@@ -1,0 +1,8 @@
+{
+  "name": "Coffee Check",
+  "description": "Track your coffee's temperature in real time and get notified when it's ready to drink.",
+  "uuid": "coffee-check@gryfen",
+  "shell-version": ["45", "46", "47"],
+  "gettext-domain":"coffee-check@gryfen",
+  "version-name": "1.0"
+}
