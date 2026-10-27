@@ -4,5 +4,6 @@
   "uuid": "coffee-check@gryfen",
   "shell-version": ["45", "46", "47"],
   "gettext-domain":"coffee-check@gryfen",
+  "url": "https://github.com/e-o-r-a-n/coffee-check.git",
   "version-name": "1.0"
 }
